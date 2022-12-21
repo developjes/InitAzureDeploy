@@ -1,0 +1,2 @@
+# InitAzureDeploy
+deploy test
